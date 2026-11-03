@@ -1,0 +1,19 @@
+E-bike parked at floor 1, slot 1
+Delivery van parked at floor 1, slot 2
+Next vehicle parked at floor 2, slot 1
+Available/occupied slots: 7/3
+E-bike flat fee: Rs 20.00
+Delivery van fee at 10 AM: Rs 60.00
+Valid one-day visitor pass fee: Rs 0.00
+No-pass visitor fee at 5 PM: Rs 30.00
+Delivery van fee at 8 AM: 30.0
+Delivery van fee at 9 AM: 60.0
+Delivery van fee at 4 PM: 60.0
+Release delivery van: true
+Release same vehicle again: false
+Reused slot after release: floor 1, slot 2
+One-slot facility full: true
+Zero-minute delivery fee: 0.0
+Invalid entry hour rejected.
+Negative duration rejected.
+Negative floor capacity rejected.

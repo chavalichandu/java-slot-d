@@ -1,0 +1,12 @@
+[0, 0]
+[0, 1]
+[1, 0]
+Full facility allocation: null
+Available/occupied: 0/3
+Release valid slot: true
+Release same slot again: false
+Release invalid floor: false
+Reallocated slot: [0, 1]
+Duplicate registration rejected.
+Blank registration rejected.
+Negative floor capacity rejected.

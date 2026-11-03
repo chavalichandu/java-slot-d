@@ -1,0 +1,10 @@
+TwoWheeler TN01A1 -> Rs 30.00
+Car TN02B2 -> Rs 90.00
+ElectricCar TN03C3 -> Rs 210.00
+Same registration compares equal: true
+Zero-minute fee: 0.0
+59-minute fee: 10.0
+60-minute fee: 10.0
+Negative duration rejected.
+Negative charging energy rejected.
+Maximum int duration fee: 3.5791395E8

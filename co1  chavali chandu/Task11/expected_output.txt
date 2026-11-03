@@ -1,0 +1,15 @@
+Duplicate active registration rejected.
+Bike ticket: 1, vehicle: TN01AB1111, slot: 1
+Car ticket: 2, vehicle: TN02CD2222, slot: 2
+Third vehicle allocated: false
+Available/occupied slots: 0/2
+Student pass fee (61 minutes): Rs 0.00
+Visitor fee (60 minutes): Rs 30.00
+Staff pass fee (zero minutes): Rs 0.00
+Visitor fee (59 minutes): Rs 10.00
+Total collection: Rs 40.00
+Available/occupied after exit: 2/0
+Exit for absent vehicle: false
+Staff and boundary ticket numbers: 3 and 4
+Negative parking duration rejected.
+Zero-slot facility rejected.
